@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "IPFS-Mobile-Cloud",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

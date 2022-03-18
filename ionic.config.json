@@ -1,0 +1,7 @@
+{
+  "name": "IPFS-Mobile-Cloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
